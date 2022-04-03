@@ -23,3 +23,34 @@ td {
     text-align: center;
 
 }
+
+    #fig1 {
+        border: 1px solid rgb(92, 86, 86);
+        border-radius: 4px;
+        padding: 5px;
+        width: 150px;
+        float: right;
+        
+    }
+    #fig2 {
+
+        border: 0.4px solid rgb(92, 86, 86);
+        border-radius: 4px;
+        padding: 5px;
+        width: 350px;
+        float: right;
+    } 
+    #fig3 {
+
+        border: 0.4px solid rgb(92, 86, 86);
+        border-radius: 4px;
+        padding: 5px;
+        width: 350px;
+        float: right;
+    }
+
+
+
+figcaption{
+    color: solid black;
+}
